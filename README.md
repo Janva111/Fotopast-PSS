@@ -15,7 +15,7 @@ Hlavní výzvou bylo implementovat kod na modul Projekt prochází fázemi od ha
 zapojení na nepájivém poli přes programování v prostředí Arduino IDE
 až po finální testování v reálných podmínkách.
 
-##Ekonomicka rozvaha:
+## Ekonomicka rozvaha:
 Běžné fotopasti (značky jako Bunaty, Apeman) začínají na ceně 1 500–3 000 Kč. Jsou uzavřené.
 V čem je projekt lepší: Náklady na hardware jsou cca 700 Kč. Projekt je plně modifikovatelný.
 
