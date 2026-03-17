@@ -46,4 +46,4 @@ Scénář,Popis,Očekávaný výsledek,Výsledek
 
 ## Licence a Git
 Licence: MIT License (umožňuje volné použití a úpravy).
-Odkaz na GIT: 
+Odkaz na GIT: https://github.com/Janva111/Fotopast-PSS.git
