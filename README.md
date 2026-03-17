@@ -1,6 +1,8 @@
 # Dokumentace 
 Projekt: Fotopast
+
 Autor: Jan Vávra
+
 Obor: Informační technologie
 
 ## Annotace
@@ -37,7 +39,8 @@ Scénář,Popis,Očekávaný výsledek,Výsledek
 2. Detekce: Pohyb rukou před PIR senzorem. - ESP32 se probudí ze spánku.
 3. Pořízení: Snímání za denního světla. - Fotografie je ostrá a čitelná.
 4. Ukládání: Kontrola zápisu na SD kartu. - Soubor .jpg je správně uložen.
-
+5. Opakovaní: Kontrola zda se proces provede znovu.
+   
 ## Instalace a spuštění
 - Zapojení: Propojte ESP32-CAM s USB-TTL převodníkem (5V na 5V, GND na GND, U0R na TX, U0T na RX). Důležité: Pro nahrávání propojte GPIO 0 s GND.
 - Software: V Arduino IDE vyberte desku "AI Thinker ESP32-CAM".
@@ -46,6 +49,7 @@ Scénář,Popis,Očekávaný výsledek,Výsledek
 
 ## Licence a Git
 Licence: MIT License (umožňuje volné použití a úpravy).
+
 Odkaz na GIT: https://github.com/Janva111/Fotopast-PSS.git
 
 ## Závěr
