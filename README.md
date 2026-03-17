@@ -47,3 +47,7 @@ Scénář,Popis,Očekávaný výsledek,Výsledek
 ## Licence a Git
 Licence: MIT License (umožňuje volné použití a úpravy).
 Odkaz na GIT: https://github.com/Janva111/Fotopast-PSS.git
+
+## Závěr
+Projekt fotopasti s ESP32-CAM prokázal, že za zlomek ceny komerčních produktů lze sestavit funkční monitorovací zařízení. 
+Použití PIR senzoru efektivně řeší výdrž baterie. Během vývoje se jako největší překážka ukázalo nahrati dat na modul.
