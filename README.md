@@ -20,7 +20,7 @@ Běžné fotopasti (značky jako Bunaty, Apeman) začínají na ceně 1 500–3 
 V čem je projekt lepší: Náklady na hardware jsou cca 700 Kč. Projekt je plně modifikovatelný.
 
 ## Vývoj
-### Vývoj a použité technologie Hardware:
+### Hardware:
 - ESP32-CAM: Hlavní modul s kamerou.
 - USB-TTL Převodník: Pro nahrávání kódu (přes piny U0R a U0T).
 - PIR Senzor (HC-SR501): Detekce pohybu.
